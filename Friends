@@ -1,0 +1,15 @@
+<html>
+<style>
+body {
+  background: purple;
+}
+</style>
+  <title>Friends</title>
+  <h1>The Crazy People I Chill With</h1>
+  <h2>Ana</h2>
+    <img src="photo1.jpg" width="180" length="180" alt="Photo of her swag">
+  <h2>Alexa</h2>
+    <img src="photo1.jpg" width="180" length="180" alt="Photo of her swag">
+  <h2>Jody</h2>
+    <img src="photo1.jpg" width="180" length="180" alt="Photo of her swag">
+<html>

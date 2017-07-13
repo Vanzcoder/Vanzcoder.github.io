@@ -1,0 +1,68 @@
+
+<style>
+
+header {
+  left: 100px;
+  position: fixed;
+  left: 50%;
+}
+
+
+header img {
+  border-radius: 50%;
+  position: absolute;
+  left: 40%;
+  position: fixed;
+}
+
+img {
+display: block;
+transition: transform 1s;
+}
+
+img:hover{
+  transform:rotateZ(1080deg);
+  transform-origin: 50% 50%;
+}
+
+nav a {
+  text-decoration: none;
+  position: absolute;
+}
+
+html {
+  border: 5px dashed purple;
+}
+
+h3{
+  font-weight: lighter;
+  margin: 0px;
+}
+
+body {
+  background: pink;
+  font-family: Georgia, Helvetica;
+  color: purple
+  border: 10px solid red;
+  margin: 0px;
+  padding: 16px;
+}
+
+h2 {
+  color: purple;
+  margin: 0px;
+}
+
+section {
+  background: white;
+  padding: 10px;
+  margin: 16px;
+  border: 1px solid black;
+  box-shadow: 0 2px 4px gray;
+}
+
+div {
+  right: 360px;
+}
+
+</style>

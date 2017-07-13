@@ -1,0 +1,54 @@
+<html>
+  <title> Vanessa's Profile</title>
+  <link href="Styles.CSS"  rel="stylesheet">
+
+  <header>
+    <h1>Why Vanessa Is Fabulous</h1>
+    <img src="photo1.jpg" width="200" length="200" alt="Photo of her swag">
+  </header>
+
+  <div>
+    <button>Like <a href="Like This Page"></a>
+      <img src="Like-photo.png" width=20 length=20 arc="Like"></button>
+  </div>
+
+  <section>
+    <nav>
+      <h3>Directory</h3>
+      <ul>
+        <li>Home</li>
+        <li><a href="Silly Photos Page">Silly Photos</a></li>
+        <li><a href="Friends">Friends</a></li>
+        <li><a href="blog">Blog</a></li>
+      </ul>
+    </nav>
+  </section>
+
+  <section>
+    <h2 class="summary-header">A little about me:</h2>
+      <p>I am an environmentalist and statistician who loves learning about how technology can help solve climate issues and serve the world's poor. I can't wait to learn more about CS from the wonderful CSSI community!</p>
+    <h2>Hometown</h2>
+      <p>Los Gatos, CA</p>
+    <h2>College</h2>
+      <p>UC Berkeley</p>
+    <h2>Favorite Food</h2>
+      <p>Kale! and other organic plants!</p>
+  </section>
+
+  <section>
+    <h2>Favorite Books</h2>
+      <ol>
+        <li>Reason for Hope,</li>
+        <li>The Girl With Seven Names</li>
+        <li> and The Price of Inequality</li>
+      </ol>
+  </section>
+
+  <section>
+    <h2>Other Profiles</h2>
+      <ul>
+        <li><a href="http://www.huffingtonpost.com/author/vanessa-205">Huffington Post</a></li>
+        <li></li>
+      </ul>
+  </section>
+</html>
